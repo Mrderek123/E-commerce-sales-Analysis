@@ -42,7 +42,7 @@ The project is structured across **three interactive dashboards**:
 ## 📊 Dashboards
 
 ### 1️⃣ Main Dashboard – Business Overview
-![Main Dashboard](dashboard_main.png)
+![Main Dashboard](Dashboard_main_tab.png)
 
 **Purpose:**
 Provides a high-level view of overall e-commerce business performance.
@@ -62,7 +62,7 @@ Provides a high-level view of overall e-commerce business performance.
 ---
 
 ### 2️⃣ Product Dashboard – Category & Product Performance
-![Product Dashboard](dashboard_product.png)
+![Product Dashboard](Dashboard_product_tab.png)
 
 **Purpose:**
 Evaluates performance at the product and category level with flexible metric selection.
@@ -80,7 +80,7 @@ Evaluates performance at the product and category level with flexible metric sel
 ---
 
 ### 3️⃣ Individual Product Dashboard – Deep-Dive Analysis
-![Individual Product Dashboard](dashboard_individual_product.png)
+![Individual Product Dashboard](Dashboard_Individual_product_tab.png)
 
 **Purpose:**
 Provides a detailed analysis of a single selected product.
